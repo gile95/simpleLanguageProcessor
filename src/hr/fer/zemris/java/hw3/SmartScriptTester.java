@@ -12,7 +12,8 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 
 /**
- * Class which represents SmartScriptParser functionalities
+ * Class which shows SmartScriptParser functionalities. The program does not 'execute' this document,
+ * (iterate for-loop for specified number etc.) All it does is produce a document tree model.
  * @author Mislav Gillinger
  * @version 1.0
  */
